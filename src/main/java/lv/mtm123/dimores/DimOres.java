@@ -25,7 +25,7 @@ import net.minecraftforge.event.RegistryEvent;
 )
 public class DimOres {
 
-    public static final String MOD_ID = "assets/dimores";
+    public static final String MOD_ID = "dimores";
     public static final String MOD_NAME = "DimOres";
     public static final String VERSION = "1.0-SNAPSHOT";
 

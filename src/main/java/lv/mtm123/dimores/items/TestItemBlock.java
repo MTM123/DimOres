@@ -10,7 +10,7 @@ public class TestItemBlock extends ItemBlock {
     public TestItemBlock(Block block) {
         super(block);
         setRegistryName(MOD_ID, "test");
-        setTranslationKey("test");
+        setTranslationKey(MOD_ID + ".test");
     }
 
 }

@@ -14,7 +14,7 @@ public class TestBlock extends Block {
         setHarvestLevel("pickaxe", 2);
         setRegistryName(MOD_ID, name);
         setCreativeTab(CreativeTabs.MATERIALS);
-        setTranslationKey("test");
+        setTranslationKey(MOD_ID + ".test");
     }
 
 
