@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures":{
-    "all": "dimores:blocks/test"
+    "all": "dimores:blocks/nether_gold_ore"
   }
 }
